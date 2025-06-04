@@ -1,6 +1,5 @@
 # Privacy-Preserving Communication among LLMs with Local Semantic Compensation
 
-📄 *Anonymous ACL Submission · 2025*
 
 > 🔒 **Note**: We will release the full source code upon acceptance of the paper. This repository currently serves as a placeholder for documentation and experimental setup.
 
